@@ -22,10 +22,10 @@ public class Main {
 
 
 //  another way to acesss it using this polyorphism
-        Shape s = new Rectangle(10,20);
-        System.out.println(s.area());
-        Shape cr = new Circle(2);
-        System.out.println(cr.area());
+//        Shape s = new Rectangle(10,20);
+//        System.out.println(s.area());
+//        Shape cr = new Circle(2);
+//        System.out.println(cr.area());
 
     }
 
